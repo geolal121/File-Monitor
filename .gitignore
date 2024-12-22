@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+
+# Build directories
+/build/
+/bin/
+
+# IDE files
+*.vscode
+*.idea
